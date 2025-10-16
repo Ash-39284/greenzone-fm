@@ -1,0 +1,128 @@
+.body{
+    border:0px;
+}
+
+.main{
+    margin-left:0px;
+    margin-right:0px;
+}
+
+.header{
+    text-align: center;
+    border:0px
+}
+.navigation-bar ul{
+    list-style-type: none;
+    background-color:#FFFF;
+    padding: 0px;
+    margin: 0px;
+    overflow:hidden;
+}
+.navigation-bar a{
+     color:#80CB28;
+     text-decoration: none;
+     padding: 15px;
+     display: block;
+     text-align:center;
+    }
+
+.navigation-bar{
+    border:0px;
+    }
+
+    .navigation-bar a:hover{
+        background-color:#1D4478 ;
+    }
+
+.navigation-bar li{
+float:left;
+    }
+
+.logo-facebook{    
+    float: right;
+    padding:5%;
+}
+
+.logo-linkedin{
+    float: right;
+}
+
+.footer{
+    background-color: #1D4478;
+    color: #FFFF;
+    height: 150px;
+    width: 100%;
+}
+
+.footer-middle{
+    list-style-type: none;
+    display: inline-block;
+    position: relative;
+    left: 40%;
+}
+
+.ul-footer{
+    display: inline;
+    list-style-type: none;
+    position: absolute;   
+}
+
+.footer-logo{
+display: inline-block;
+position: relative;
+left: 65%;
+
+}
+
+.T-C:hover{
+    color: #80CB28;
+    transition-delay: 0.2ms;
+}
+
+.Privacy-policy:hover{
+    color:#80CB28;
+    transition-delay: 0.2ms;
+}
+
+.about:hover{
+    color: #80CB28;
+    transition-delay: 0.2ms;
+}
+
+.contact:hover{
+    color: #80CB28;
+    transition-delay: 0.2ms;
+}
+
+.statement{
+     text-align: center;
+     color: #80CB28;
+     position: relative;
+     top: 20px;
+     left: 15px;
+}
+
+.explore{
+    color: #1D4478;
+    text-align: center;
+}
+
+.explore-below{
+    text-align: center;
+}
+
+.logo{
+position: absolute;
+left: 45%;
+top: 0%;
+}
+
+div a{
+    text-decoration: none;
+}
+
+#mailto{
+    text-decoration: none;
+    color: white;
+}
+
